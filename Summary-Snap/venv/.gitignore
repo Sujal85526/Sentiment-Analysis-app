@@ -1,8 +1,16 @@
-.env
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
 venv/
 pdf_env/
-.streamlit/
+*.so
+*.dylib
+
+# Environment
+.env
+
+# OS
 .DS_Store
 
+# Streamlit
+.streamlit/
