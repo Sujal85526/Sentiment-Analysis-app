@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+venv/
+pdf_env/
+.streamlit/
+.DS_Store
+
